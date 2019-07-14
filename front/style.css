@@ -1,0 +1,51 @@
+.navbar{
+    padding: 1rem 8rem;
+}
+.divform{
+    padding: 2rem 8rem;
+    background-color: #c4f1ff;
+}
+.divenviadas{
+    padding: 2rem 8rem;
+    background-color: #fcde62;
+}
+
+.formBt{
+    background-color: #55a45e;
+    height: calc(1.5em + .75rem + 2px);
+    font-size: 1rem;
+    padding: .4rem 2rem;
+    color: #fff;
+    border-radius: .3rem;
+    font-weight: 700;
+    text-shadow: none;
+  }
+  
+  .formBt:hover{
+    background-color: rgb(70, 180, 116);
+    text-decoration: none;
+      text-shadow: none;
+      color: #fff;
+  }
+
+  .btEnvio{
+    display: flex;
+    justify-content: center;
+  }
+h2{
+    color: #bb4ea3;
+}
+  .tituloform{
+    color: #0a4165;
+    text-align: Left;
+    line-height: 1.5rem;
+    font-weight: 600;
+  }
+.imglateral{
+    max-height: 70vh;
+}
+.colleft{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

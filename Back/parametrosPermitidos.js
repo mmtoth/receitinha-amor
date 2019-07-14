@@ -1,6 +1,5 @@
 const parametrosPermitidos = {
-    update: ['nome', 'foto'],
-    add: ['nome', 'foto', 'numero'],
+    add: ['receita', 'motivo', 'tipo', 'ingredientes', 'preparo'],
     
   }
   
